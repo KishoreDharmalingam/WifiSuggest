@@ -1,4 +1,4 @@
-package com.kishore.wifisuggest;
+package com.kishore.configurationlib;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
 
-        assertEquals("com.kishore.wifisuggest", appContext.getPackageName());
+        assertEquals("com.kishore.configurationlib.test", appContext.getPackageName());
     }
 }

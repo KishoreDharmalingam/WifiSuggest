@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">WifiSuggest</string>
+    <string name="title_connectfeature">Connect</string>
 </resources>
